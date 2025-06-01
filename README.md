@@ -1,15 +1,13 @@
 <div align="center">
 <h2> Hi , I'm Daniel Quirós! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DaniQB99" alt="DaniQB99" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-<pre>
+<pre align="left">
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I have a Higher Degree in Multiplatform Application Development and Industrial Mechatronics
 📝 I have a true passion for programming and software development, constantly learning new technologies.
