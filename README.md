@@ -28,7 +28,7 @@
 <div align="center">
 
   [![](https://github-readme-stats.vercel.app/api?username=DaniQB99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DaniQB99)
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=tokyonight)](https://github.com/DaniQB99)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=DaniQB99&theme=tokyonight)](https://github.com/DaniQB99)
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniQB99&theme=tokyonight&layout=compact)](https://github.com/DaniQB99)
   
 </div>
